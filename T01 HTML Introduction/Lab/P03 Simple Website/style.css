@@ -1,0 +1,39 @@
+body {
+    background: #ccc;
+    font-family: "Helvetica",
+    sans-serif;
+    margin: 0;
+}
+
+section{
+    margin-left: 20px;
+}
+
+nav {
+    background: #444;
+    margin: 0;
+    padding: 15px;
+}
+
+nav ul{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+nav li {
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+footer{
+    color: #fff;
+    text-align: center;
+    background: #444;
+    margin: 0;
+    padding: 15px;
+}
