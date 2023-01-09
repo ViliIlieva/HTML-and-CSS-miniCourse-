@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    padding-left: 122px;
+    padding-top: 25px;
+}
+
+body > header > article:nth-child(1){
+    padding-right: 385px;
+}
+
+.header {
+    display: inline-block;
+    border-left: 2px black solid;
+    padding-left: 20px;
+}
+
+.block {
+    display: inline-block;
+    width: 304px;
+    padding: 20px;
+}
+
+p {
+    color: #656565;
+}
+
+img {
+    width: 310px;
+    height: 212px;
+}
+
+main {
+    padding: 0px 103px;
+}
+
